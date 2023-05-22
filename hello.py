@@ -3,7 +3,7 @@ def say_hi():
 
 
 def say_city():
-	print("Alcanena")
+	print("Beer City")
 
 __version__ = '0.1'
 
